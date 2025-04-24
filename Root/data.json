@@ -1,0 +1,45 @@
+{
+    "highlights": [
+        "Year-round enrichment camps in Asia",
+        "Holistic growth & unique experiences",
+        "Pastoral care, English, Tech & outdoor camps",
+        "Nurturing individuals in top locations"
+    ],
+    "overview": "Global Enrichment Programmes (GEP) offers a range of year-round enrichment camps for students aged 10-17 across Asia. With locations in Epsom College Malaysia and Hakuba, Japan, they provide diverse programmes including British Summer School, Hakuba Camps, Discovery English & Sports Camps, Tennis, Golf, and Football Camps.",
+    "age_range": "10-17 years old",
+    "availability": "January to December",
+    "minimum_stay": "1 week",
+    "price": "From $901",
+    "main_language": "English",
+    "number_of_campers": "Up to 600 campers",
+    "gender": "Co-Education",
+    "bedrooms": "Private",
+    "activities": [
+        "Campfire",
+        "Camping Skills/Outdoor Living",
+        "English as a Second Language",
+        "Football",
+        "Languages",
+        "Skiing (Downhill)",
+        "Snowboarding",
+        "Swimming"
+    ],
+    "language_lessons": "The programme offers intensive English learning, tailored to students from beginner to advanced levels. It includes interactive sessions, real-world communication practice, and comprehensive exercises to build fluency and confidence.",
+    "languages_taught": [
+        "English"
+    ],
+    "accommodation_and_facilities": {
+        "type": "Private",
+        "location": [
+            "Epsom College, Malaysia",
+            "Hakuba, Japan"
+        ],
+        "facilities": [
+            "Tennis courts",
+            "Golf academy",
+            "Football training grounds",
+            "Indoor/outdoor teaching studios",
+            "Chipping greens with sand bunkers"
+        ]
+    }
+}
